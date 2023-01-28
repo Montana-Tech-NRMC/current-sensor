@@ -8,7 +8,7 @@
   (title_block
     (title "Current Sensor")
     (date "2023-01-26")
-    (rev "1.0.1")
+    (rev "0.0.2")
     (company "Montana Tech Robotics Club")
     (comment 1 "Author: Justin Bak")
   )
@@ -348,7 +348,7 @@
   )
 
   (gr_line (start 202.184 86.36) (end 202.184 81.28) (layer "F.Mask") (width 3) (tstamp 9dc048af-e8c0-41c3-b4a7-4e40bb33721c))
-  (gr_line (start 202.184 90.17) (end 202.184 95.758) (layer "F.Mask") (width 3) (tstamp e1236d3e-f595-4525-b61d-236821fea9fd))
+  (gr_line (start 202.184 89.916) (end 202.184 95.504) (layer "F.Mask") (width 3) (tstamp e1236d3e-f595-4525-b61d-236821fea9fd))
   (gr_rect (start 200.152 82.296) (end 214.884 94.488) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 38b2bd46-91ef-4998-97fe-0d1572dd92bc))
   (gr_text "Justin Bak" (at 206.248 93.472) (layer "B.SilkS") (tstamp 3bfa5989-4d41-48e4-825e-03f80823dbc8)
     (effects (font (size 0.75 0.75) (thickness 0.1875)) (justify mirror))
@@ -402,10 +402,10 @@
     (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 218.44 87.884)
+        (xy 215.392 87.884)
         (xy 199.644 87.884)
         (xy 199.644 81.788)
-        (xy 218.44 81.788)
+        (xy 215.392 81.788)
       )
     )
     (filled_polygon
@@ -654,10 +654,10 @@
     (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 218.44 97.028)
-        (xy 199.644 97.028)
+        (xy 215.392 94.996)
+        (xy 199.644 94.996)
         (xy 199.644 88.392)
-        (xy 218.44 88.392)
+        (xy 215.392 88.392)
       )
     )
     (filled_polygon
@@ -937,10 +937,10 @@
     (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 218.44 97.028)
-        (xy 199.644 97.028)
+        (xy 215.392 94.996)
+        (xy 199.644 94.996)
         (xy 199.644 81.788)
-        (xy 218.44 81.788)
+        (xy 215.392 81.788)
       )
     )
     (filled_polygon

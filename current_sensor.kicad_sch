@@ -7,7 +7,7 @@
   (title_block
     (title "Current_Sensor")
     (date "2022-11-03")
-    (rev "0.0.1")
+    (rev "0.0.2")
     (company "Montana Tech Robotic Mining Club")
   )
 
