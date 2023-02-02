@@ -347,8 +347,12 @@
     )
   )
 
+  (gr_line (start 202.438 90.424) (end 204.978 90.424) (layer "F.Cu") (width 1.75) (tstamp 6fc47305-df45-40ec-b888-fa0a2833d27f))
+  (gr_line (start 202.184 87.376) (end 204.724 87.376) (layer "F.Cu") (width 1.75) (tstamp ab385140-8f0e-4dd4-a0e3-578ac9edf855))
+  (gr_line (start 202.184 87.376) (end 204.724 87.376) (layer "F.Mask") (width 1.75) (tstamp 45960774-7fe0-40c4-892c-1276d6d95623))
   (gr_line (start 202.184 86.36) (end 202.184 81.28) (layer "F.Mask") (width 3) (tstamp 9dc048af-e8c0-41c3-b4a7-4e40bb33721c))
   (gr_line (start 202.184 89.916) (end 202.184 95.504) (layer "F.Mask") (width 3) (tstamp e1236d3e-f595-4525-b61d-236821fea9fd))
+  (gr_line (start 202.184 90.424) (end 204.724 90.424) (layer "F.Mask") (width 1.7) (tstamp ec07e3fb-19f4-4cc0-9835-91dccbcd1ac1))
   (gr_rect (start 200.152 82.296) (end 214.884 94.488) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 38b2bd46-91ef-4998-97fe-0d1572dd92bc))
   (gr_text "Justin Bak" (at 206.248 93.472) (layer "B.SilkS") (tstamp 3bfa5989-4d41-48e4-825e-03f80823dbc8)
     (effects (font (size 0.75 0.75) (thickness 0.1875)) (justify mirror))
